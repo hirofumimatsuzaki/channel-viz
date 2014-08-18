@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'dn08QLTeBStbPXU-U7DL2qAgTZoxKquCqYQyu3-Dbr4', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'hOREl89oZaoImau9tX3G0Kpv3dy068PsuWiUvT5oQTNrvrPQ', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [2035121252,519766201], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Studio Kura Making Room', // Replaces Xively logo in the header
 		dataDuration	= '10800', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
